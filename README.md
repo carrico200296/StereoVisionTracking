@@ -1,5 +1,5 @@
 # StereoVisionTracking
-Stereo vision tracking and classification system for the Industry 4.0.
+### Stereo vision tracking and classification system for the Industry 4.0.
 
 
 
@@ -16,6 +16,7 @@ IMPORTANT:
 In order to run final_project.py, you must have the following local directory tree:
 
 (this directory)
+
 ../calibration/calibration_matrix               (create this empty folder, calibration matrices will be saved here)
 
 
